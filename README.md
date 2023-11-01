@@ -1,6 +1,8 @@
 # Hangman-mini-Project
 A python based hangman game
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
 In this code, I've implemented a simple Hangman game in Python. Here's a summary of the key concepts and features I've employed in my code:
 
 ![1](https://github.com/Pranav-26/Hangman-mini-Project/assets/92203147/9d7302c8-d637-490d-b25f-e7ff0f2057db)
