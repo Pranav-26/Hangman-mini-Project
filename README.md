@@ -3,6 +3,10 @@ A python based hangman game
 
 In this code, I've implemented a simple Hangman game in Python. Here's a summary of the key concepts and features I've employed in my code:
 
+![image](https://github.com/Pranav-26/Hangman-mini-Project/assets/92203147/ba32d1a0-db92-439f-ae51-cf939560ed13)
+![image](https://github.com/Pranav-26/Hangman-mini-Project/assets/92203147/f0afcf17-139c-4e95-86af-3facb1a3f11e)
+
+
 1. Importing Modules:
    - I imported the `random` module to help me generate random words and choices.
    - I imported specific word lists from a custom module named `words`, including `random_words`, `bodyParts`, `fruits`, `vegetables`, and `animals`.
