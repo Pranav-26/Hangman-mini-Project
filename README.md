@@ -1,6 +1,6 @@
 # Hangman-mini-Project
 <p align="center">
-  [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+https://forthebadge.com/images/badges/made-with-python.svg
 </p>
 
 A python based hangman game
